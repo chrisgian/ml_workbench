@@ -7,6 +7,8 @@ A reusable cross platform docker container for data projects
 Step 1: clone repo
 ```
 git clone https://github.com/chrisgian/ml_workbench
+
+cd ml_workbench
 ```
 
 Step 2: build image
