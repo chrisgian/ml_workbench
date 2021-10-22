@@ -1,4 +1,4 @@
-# Project: Reusable workspace for ML tasks
+# Project: Reusable workspace
 
 ## Goals:
 Reusable workspace for tasks
