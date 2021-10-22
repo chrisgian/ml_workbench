@@ -1,7 +1,7 @@
 # Project: Reusable workspace for ML tasks
 
 ## Goals:
-A reusable cross platform docker container for data projects
+Reusable workspace for tasks
 
 ## How to use:
 Step 1: clone repo
